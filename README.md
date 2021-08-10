@@ -1,11 +1,11 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
-==========================================================================================================================================
 
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=jeffcandido&repo=jeffcandido&countColorcountColor)
 
 My name is Jefferson Cândido. I work as a Software Developer at Zup Innovation.
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=jeffcandido&repo=jeffcandido&countColorcountColor)
+![Snake animation](https://github.com/jeffcandido/jeffcandido/blob/output/github-contribution-grid-snake.svg)
 
 ### Analytics ⚙️
 
