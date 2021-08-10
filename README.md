@@ -17,6 +17,14 @@ My name is Jefferson Cândido. I work as a Software Developer at Zup Innovation.
 
 ### Let's connect? 🤝
 
+### Testing Metrics
+
+[![](https://raw.githubusercontent.com/jeffcandido/jeffcandido/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/jeffcandido/jeffcandido/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jeffcandido/jeffcandido/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/jeffcandido/jeffcandido/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jeffcandido/jeffcandido/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+
 <p align="left">
 
 <a href="https://www.linkedin.com/in/jefferson-da-silva-c%C3%A2ndido-8ab8a570/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
