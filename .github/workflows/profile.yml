@@ -3,10 +3,9 @@ name: Generate Datas
 
 on:
   push:
-    branches: [ master ]
-#   workflow_dispatch: # execute manually
-#   schedule: # execute every 12 hours
-#     - cron: "* */12 * * *"
+  workflow_dispatch: # execute manually
+  schedule: # execute every 12 hours
+    - cron: "* */24 * * *"
 
 jobs:
   summary-cards:
