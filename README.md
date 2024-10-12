@@ -3,7 +3,7 @@
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=jeffcandido&repo=jeffcandido&countColorcountColor)
 
-My name is Jefferson Cândido. I work as a Software Developer at Zup Innovation.
+My name is Jefferson Cândido and I work as Software Developer.
 
 ![Snake animation](https://github.com/jeffcandido/jeffcandido/blob/output/github-contribution-grid-snake.svg)
 
